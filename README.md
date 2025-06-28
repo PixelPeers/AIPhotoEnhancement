@@ -2,11 +2,11 @@
 
 AIPhotoEnhancement is a powerful application that leverages artificial intelligence to enhance the quality of photos automatically. Whether you're dealing with low resolution images, noise, poor lighting, or blurry content, pixlated image,this tool improves clarity, sharpness, and overall visual appeal with minimal user input using AI.
 
-**Overview**
+## Overview
 
 
 
-**Features**
+## Features
  
 - 🧠 AI-Powered Image Enhancement (super-resolution, denoising, color correction)
 - 📷 Support for popular image formats: JPEG, PNG, BMP, etc.
