@@ -27,5 +27,5 @@ AIPhotoEnhancement is a powerful application that leverages artificial intellige
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/AIPhotoEnhancement.git
+git clone https://github.com/PixelPeers/AIPhotoEnhancement
 ```
