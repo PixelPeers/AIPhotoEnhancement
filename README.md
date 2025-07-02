@@ -5,6 +5,15 @@ AIPhotoEnhancement is a powerful application that leverages artificial intellige
 ## Overview
 
 
+## Tech Stack
+
+- **Programming:** TypeScript
+- **Framework:** 
+  - **Backend:** Next.js
+  - **Frontend:** React
+- **Database:** PostgreSQL
+- **AI Model:** Astria
+- **Web server:** Vercel
 
 ## Features
  
